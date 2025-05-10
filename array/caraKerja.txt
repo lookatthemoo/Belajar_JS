@@ -1,3 +1,7 @@
+saya belajar javascript di channel youtube PZN
+https://youtu.be/SDROba_M42g?si=quor1sCZidAeC3ao
+
+Dan ada beberapa hal yang saya cari dari Grok seperti dibawah ini
 SC: Grok AI
 
 Array dalam JavaScript adalah struktur data yang digunakan untuk menyimpan kumpulan nilai dalam satu variabel, di mana setiap nilai memiliki indeks numerik mulai dari 0. Array bekerja dengan cara menyimpan elemen secara berurutan di memori, memungkinkan akses cepat ke elemen tertentu menggunakan indeks. 
